@@ -2,7 +2,18 @@
 
 > A curated list of open-source AI-powered crypto trading agents, quant frameworks, and algorithmic trading bots — with a focus on BTC, hedging strategies, and agentic workflows for 2026.
 
+[![Stars](https://img.shields.io/github/stars/shakeebshaan/awesome-crypto-trading-agents?style=flat-square&color=yellow)](https://github.com/shakeebshaan/awesome-crypto-trading-agents/stargazers)
+[![Forks](https://img.shields.io/github/forks/shakeebshaan/awesome-crypto-trading-agents?style=flat-square&color=blue)](https://github.com/shakeebshaan/awesome-crypto-trading-agents/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/shakeebshaan/awesome-crypto-trading-agents?style=flat-square&color=green)](https://github.com/shakeebshaan/awesome-crypto-trading-agents/commits/main)
+[![License: CC0](https://img.shields.io/badge/License-CC0-orange.svg?style=flat-square)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](#contributing)
+
 **Maintained by [@shakeebshaan](https://github.com/shakeebshaan)** · [Contributing](#contributing) · [License: CC0](#license)
+
+### Related projects by the same author
+
+- **[btc-hedge-lab](https://github.com/shakeebshaan/btc-hedge-lab)** — OSS playground for BTC hedging strategies (delta, basis, funding, collars)
+- **[claude-code-quant-skills](https://github.com/shakeebshaan/claude-code-quant-skills)** — Claude Code skills tuned for quant research & backtesting
 
 ---
 
