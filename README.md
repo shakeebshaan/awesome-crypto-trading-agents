@@ -39,6 +39,7 @@ Trading bots powered by autonomous AI agents — multi-step reasoning, tool use,
 
 - **[jesse-ai/jesse](https://github.com/jesse-ai/jesse)** — Advanced crypto trading bot in Python; "personal AI quant" with Monte Carlo mode.
 - **[freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)** — Free OSS crypto bot, 40k+ stars; supports ML via FreqAI (adaptive prediction modeling).
+- **[TurbineFi](https://turbinefi.com)** — Platform for building, backtesting, and deploying automated trading strategies for prediction markets including Kalshi and Polymarket.
 - **[asavinov/intelligent-trading-bot](https://github.com/asavinov/intelligent-trading-bot)** — Feature engineering + ML signals.
 - **[tensortrade-org/tensortrade](https://github.com/tensortrade-org/tensortrade)** — Reinforcement learning framework for trading agents.
 
