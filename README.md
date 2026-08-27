@@ -92,8 +92,9 @@ Trading bots powered by autonomous AI agents — multi-step reasoning, tool use,
 
 New category for 2026 — agents that combine LLMs with market data and order execution.
 
-- **[shakeebshaan/claude-code-quant-skills](https://github.com/shakeebshaan/claude-code-quant-skills)** — Claude Code skills tuned for quant research, backtesting, strategy analysis.
 - **[anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)** — Claude API patterns including tool-use for finance workflows.
+- **[shakeebshaan/claude-code-quant-skills](https://github.com/shakeebshaan/claude-code-quant-skills)** — Claude Code skills tuned for quant research, backtesting, strategy analysis.
+- **[Superior-Trade/superior-skills](https://github.com/Superior-Trade/superior-skills)** — Open Agent Skills for market intelligence, backtesting, risk controls, and confirmation-gated deployment across crypto and prediction markets.
 
 ## Research & Papers
 
