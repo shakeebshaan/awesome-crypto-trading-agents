@@ -94,6 +94,7 @@ New category for 2026 — agents that combine LLMs with market data and order ex
 
 - **[shakeebshaan/claude-code-quant-skills](https://github.com/shakeebshaan/claude-code-quant-skills)** — Claude Code skills tuned for quant research, backtesting, strategy analysis.
 - **[anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)** — Claude API patterns including tool-use for finance workflows.
+- **[LMajster/sgrok](https://github.com/LMajster/sgrok)** — Autonomous Solana creator-ops AI agent coin ($SGROK) live on Bags.fm — 24/7 promo + fee claim/sweep.
 
 ## Research & Papers
 
