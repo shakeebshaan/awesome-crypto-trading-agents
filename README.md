@@ -76,6 +76,7 @@ Trading bots powered by autonomous AI agents — multi-step reasoning, tool use,
 
 - **[ccxt/ccxt](https://github.com/ccxt/ccxt)** — Unified order execution across 100+ exchanges.
 - **[Hummingbot Gateway](https://github.com/hummingbot/gateway)** — DEX protocol gateway.
+- **[sieblyio/binance](https://github.com/sieblyio/binance)** - Typed Node.js/TypeScript REST and WebSocket SDK for Binance, with sister SDKs for Bybit, OKX, Gate, Bitget, KuCoin, Coinbase, Kraken and Hyperliquid ([all SDKs](https://siebly.io/sdk), [docs](https://sieblyio.github.io/docs/)).
 
 ## Risk & Hedging
 
@@ -94,6 +95,7 @@ New category for 2026 — agents that combine LLMs with market data and order ex
 
 - **[shakeebshaan/claude-code-quant-skills](https://github.com/shakeebshaan/claude-code-quant-skills)** — Claude Code skills tuned for quant research, backtesting, strategy analysis.
 - **[anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)** — Claude API patterns including tool-use for finance workflows.
+- **[sieblyio/agent-skills](https://github.com/sieblyio/agent-skills)** - Open-source agent skills that teach coding agents to use the Siebly exchange SDKs for REST calls, WebSocket streams and order placement.
 
 ## Research & Papers
 
